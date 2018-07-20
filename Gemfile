@@ -46,7 +46,7 @@ gem 'rails_12factor', group: :production
 
 gem 'geocoder'
 
-gem 'rails_admin'
+gem 'rails_admin', '>= 1.1.1'
 
 gem 'kaminari'
 
