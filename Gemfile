@@ -46,10 +46,10 @@ gem 'rails_12factor', group: :production
 
 gem 'geocoder'
 
-gem 'rails_admin'
+gem 'rails_admin', '>= 0.7.0'
 
 gem 'kaminari'
 
 gem "paperclip", "~> 4.3"
 
-gem 'aws-sdk', '< 2.0'
+gem 'aws-sdk', '>= 1.66.0', '< 2.0'
