@@ -40,7 +40,7 @@ gem 'spring',        group: :development
 
 gem 'twitter-bootstrap-rails'
 
-gem 'devise'
+gem 'devise', '>= 4.6.0'
 
 gem 'rails_12factor', group: :production
 
